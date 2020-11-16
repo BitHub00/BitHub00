@@ -1,6 +1,5 @@
 ### Hello there 👋
-欢迎去我的博客康康 🏰[原力小站](http://www.bithub00.com/)  
-五月四号与你同在
+五月四号与你同在 🏰[原力小站](http://www.bithub00.com/)  
 <!--
 **BitHub00/BitHub00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
