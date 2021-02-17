@@ -1,5 +1,5 @@
 ### Hello there 👋
-🏰[原力小站](http://www.bithub00.com)  
+🏰[原力小站](www.bithub00.com)  
 <!--
 **BitHub00/BitHub00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
